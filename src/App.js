@@ -1,10 +1,10 @@
-import IconMemory from "./components/IconMemory";
+import ResultsSummaryComponent from "./components/ResultsSummaryComponent";
 
 
 function App() {
   return (
     <>
-    <IconMemory/>
+    <ResultsSummaryComponent/>
     </>
   );
 }
