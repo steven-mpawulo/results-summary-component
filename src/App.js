@@ -1,8 +1,10 @@
+import IconMemory from "./components/IconMemory";
 
 
 function App() {
   return (
     <>
+    <IconMemory/>
     </>
   );
 }
